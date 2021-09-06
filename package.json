@@ -1,0 +1,28 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@gorhom/bottom-sheet": "^4.0.3",
+    "@rainbow-me/animated-charts": "^1.0.0-alpha.5",
+    "axios": "^0.21.3",
+    "expo": "~42.0.1",
+    "expo-status-bar": "~1.0.4",
+    "moment": "^2.29.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "^2.0.0",
+    "react-native-web": "~0.13.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
