@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cryptoPriceTracker",
-    "slug": "cryptoPriceTracker",
+    "name": "CryptoMarket",
+    "slug": "cryptomarket",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,10 +23,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.emirhan.jsx.cryptomarket"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Following the crypto coinmarket.\n\n",
+    "githubUrl": "https://github.com/emirhanincodes/cryptoPriceTracker"
   }
 }
